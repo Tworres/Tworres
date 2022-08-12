@@ -2,7 +2,7 @@
 - 👀 I’m interested in knowled and improvement.
 - 🌱 I’m currently learning software enginner, and web development.
 - 💞️ I’m looking to collaborate on everything i could.
-- 📫 How to reach me: torres.gnt94@gmail.com, ig: torressguii.
+- 📫 How to reach me: torres.gnt94@gmail.com, ig: @ripguii.
 
 <!---
 Tworres/Tworres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
