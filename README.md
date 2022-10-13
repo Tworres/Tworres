@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Tworres/github-profile-trophy)
 - 👋 Hi, I’m @Tworres
 - 👀 I’m interested in knowled and improvement.
 - 🌱 I’m currently learning software enginner, and web development.
