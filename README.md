@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Angular, React, NodeJS**
 
-- 💬 Ask me about **PHP, MYSQL**
-
 - 📫 How to reach me **torres.gnt94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
